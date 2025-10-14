@@ -25,7 +25,7 @@ const FeaturesSection = () => {
         <div className="row">
           {features.map((f, index) => (
             <div key={index} className="col-md-6 col-lg-3 mb-4">
-              <div className="card h-100 shadow-sm border-0">
+              <div className="card h-100 shadow-sm border-0 effect-hover-lift ">
                 <div className="card-body">
                   <h5 className="card-title fw-bold text-primary">{f.title}</h5>
                   <p className="card-text text-secondary">{f.desc}</p>
