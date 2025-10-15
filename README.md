@@ -88,8 +88,8 @@ CareFolio was developed by a specialized, four-person team focused on cross-disc
 
 | Role | Name |
 | :---- | :---- |
-| **Frontend Developer** |  |
-| **Backend Developer** |  |
-| **Blockchain Developer** |  |
-| **ML Engineer** |  |
+| **Frontend Developer** | VARSHA K N |
+| **Backend Developer** |SANYA SAHU  |
+| **Blockchain Developer** | LINGRAJ PATIL |
+| **ML Engineer** | SUPARN NAYAK |
 
